@@ -1,3 +1,8 @@
+import "./assets/css/style.css";
+import "./assets/css/font-awesome.css";
+import "./assets/css/bootstrap.css";
+import "./assets/css/lightbox.css";
+
 function About() {
     return(
         <div class="about" id="about">
