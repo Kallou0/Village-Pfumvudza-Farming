@@ -1,5 +1,6 @@
 import NavBar from "./NavBar.js";
-import About from "./About"
+import About from "./About";
+import Services from "./Services";
 function App() {
   return (
     <div>
@@ -7,7 +8,10 @@ function App() {
         <NavBar/ >
         </div>
         <div>
-        <About />
+        <About/ >
+        </div>
+        <div>
+          <Services/ >
         </div>
         
     </div>
